@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<global>
+		<title>Jeu du plus ou du moins</title>
+	</global>
+	<game>
+		<choose_number>Entrez un nombre : </choose_number>
+		<less>C'est moins</less>
+		<more>C'est plus</more>
+		<won>Vous avez gagné</won>
+	</game>
+</game>

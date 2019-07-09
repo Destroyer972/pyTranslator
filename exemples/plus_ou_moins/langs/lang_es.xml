@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<global>
+		<title>el juego de los más o menos</title>
+	</global>
+	<game>
+		<choose_number></choose_number>
+		<less></less>
+		<more></more>
+		<won></won>
+	</game>
+</game>
