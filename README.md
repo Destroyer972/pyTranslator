@@ -22,7 +22,7 @@ The strength of pyTranslator is his ease of use.
 ```
 `main.py`
 ```python3
-import pyTranslator as pT
+import translator as pT
 
 ts = pT.translator("en","en","langs/")
 title = ts.get_element("global/title")
